@@ -1,2 +1,2 @@
-# kotlin-sorteio
+# Kotlin Sorteio
 App Simples de Sorteio de Números
